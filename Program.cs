@@ -1,4 +1,4 @@
-﻿//1. String ustida amallar
+﻿//1. String ustida amallar ishla
 Console.Write("Iltimos biror son kiriting:");
 int x = Convert.ToInt32(Console.ReadLine());
 string str = "komPyuter";
@@ -37,7 +37,7 @@ else
     Console.WriteLine("x and y are not comparable");
 }
 //3. Consoleda o’zbek tilida kiritilgan hafta kunini ingliz tiliga o’girib, natijani ekranga chiqaradigan dastur tuzing. Switch expression dan foydalaning!
-// O'zbek tilida hafta kunini kiritish
+// O'zbek tilida hafta kunini kiritish lozim
 Console.Write("Hafta kunini kiriting (o'zbek tilida): ");
 string uzbekDay = Console.ReadLine();
 
